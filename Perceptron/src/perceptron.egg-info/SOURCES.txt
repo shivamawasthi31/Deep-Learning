@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/perceptron.egg-info/PKG-INFO
+src/perceptron.egg-info/SOURCES.txt
+src/perceptron.egg-info/dependency_links.txt
+src/perceptron.egg-info/top_level.txt
+src/perceptronBasics/__init__.py
+src/perceptronBasics/components/__init__.py
+src/perceptronBasics/config/__init__.py
+src/perceptronBasics/config/configuration.py
+src/perceptronBasics/entity/__init__.py
+src/perceptronBasics/logging/__init__.py
+src/perceptronBasics/pipeline/__init__.py
+src/perceptronBasics/utils/__init__.py
+src/perceptronBasics/utils/common.py
