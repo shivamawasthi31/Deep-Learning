@@ -1,7 +1,4 @@
 .venv/
-
 config.yaml
-
 /artifacts/
-
 logs/
