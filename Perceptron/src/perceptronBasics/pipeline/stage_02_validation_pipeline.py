@@ -1,7 +1,7 @@
 from perceptronBasics.config.configuration import ConfigurationManager
 from perceptronBasics.components.data_validation import DataValidation
 
-class DataValidationPipeline():
+class DataValidationPipeline:
     def __init__(self):
         pass
 

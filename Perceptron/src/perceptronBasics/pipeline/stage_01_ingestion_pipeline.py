@@ -1,7 +1,7 @@
 from perceptronBasics.config.configuration import ConfigurationManager
 from perceptronBasics.components.data_ingestion import DataIngestion
 
-class DataIngestionPipeline():
+class DataIngestionPipeline:
     def __init__(self):
         pass
 
